@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradeCalculator</string>
+    <string name="quizes_15">Quizes %15</string>
+</resources>
